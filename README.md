@@ -5,7 +5,7 @@ If a number is a multiple of three, it prints "Bling" instead of the number.
 If a number is a multiple of five, it prints "Blong".
 Numbers which are multiples of both three and five print "BlingBlong".
 
-The sequence algorithm is created using a method that prints a list of numbers where each number is the sum of the previous two numbers. 
+The Sequence algorithm is created using a method that prints a list of numbers where each number is the sum of the previous two numbers. 
 The first two numbers of the list will always be the same: 0 and 1. So, the third value will always be 1, which is 0 + 1.
 The method has one parameter that specifies how many numbers to be computed and printed. 
 The first three values (0, 1, and 1) will always be present. The value of the parameter is for how many additional numbers to print.
