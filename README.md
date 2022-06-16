@@ -1,5 +1,5 @@
 # BlingBong-game-and-Sequence-Algorithm
-C#
+The BlingBong game and Sequence algoritm is created with C#. 
 The BlingBong game is created using a method that prints the numbers from 1 to 100 to the console. 
 If a number is a multiple of three, it prints "Bling" instead of the number.
 If a number is a multiple of five, it prints "Blong".
